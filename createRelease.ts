@@ -2,15 +2,15 @@ import { readdir } from "node:fs/promises";
 import iconv from "iconv-lite";
 
 (async () => {
-	const russianTranslationFiles = await readdir("./rus-utf8/");
+	const russianTranslationFiles = await readdir("./rus/");
 
 	for (const fileName of russianTranslationFiles) {
-		const file = Bun.file(`./rus-utf8/${fileName}`);
+		const file = Bun.file(`./rus/${fileName}`);
 
 		const xml = await file.text();
 		const encoded = iconv.encode(xml, "win1251");
 
-		await Bun.write(`./rus/${fileName}`, encoded);
+		await Bun.write(`./rus-release/${fileName}`, encoded);
 
 		console.log(fileName);
 	}
@@ -23,7 +23,7 @@ import iconv from "iconv-lite";
 		const xml = await file.text();
 		const encoded = iconv.encode(xml, "win1251");
 
-		await Bun.write(`./eng/${fileName}`, encoded);
+		await Bun.write(`./eng-release/${fileName}`, encoded);
 
 		console.log(fileName);
 	}

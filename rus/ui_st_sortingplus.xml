@@ -1,165 +1,214 @@
-<!--
-	Anomaly Modconfiguration Menu strings
--->
+<!-- Anomaly Modconfiguration Menu strings -->
 <string_table>
 	<string id="st_rax_fav">
-		<text>Отметить как избранное</text>
+		<text>РћС‚РјРµС‚РёС‚СЊ РєР°Рє РёР·Р±СЂР°РЅРЅРѕРµ</text>
 	</string>
+
 	<string id="st_rax_unfav">
-		<text>Убрать из избранного</text>
+		<text>РЈР±СЂР°С‚СЊ РёР· РёР·Р±СЂР°РЅРЅРѕРіРѕ</text>
 	</string>
+
 	<string id="st_rax_junk">
-		<text>Отметить как хлам</text>
+		<text>РћС‚РјРµС‚РёС‚СЊ РєР°Рє С…Р»Р°Рј</text>
 	</string>
+
 	<string id="st_rax_unjunk">
-		<text>Убрать из хлама</text>
+		<text>РЈР±СЂР°С‚СЊ РёР· С…Р»Р°РјР°</text>
 	</string>
+
 	<string id="ui_mcm_title_SortingPlus">
-		<text>Настройки аддона Sorting Plus</text>
+		<text>РќР°СЃС‚СЂРѕР№РєРё Р°РґРґРѕРЅР° Sorting Plus</text>
 	</string>
+
 	<string id="ui_mcm_menu_SortingPlus">
 		<text>Sorting Plus</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_playerinv">
-		<text>Сортировать инвентарь игрока</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІР°С‚СЊ РёРЅРІРµРЅС‚Р°СЂСЊ РёРіСЂРѕРєР°</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_playerinv_desc">
-		<text>Сортировка правой стороны инвентаря на всех экранах, кроме торговли</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІРєР° РїСЂР°РІРѕР№ СЃС‚РѕСЂРѕРЅС‹ РёРЅРІРµРЅС‚Р°СЂСЏ РЅР° РІСЃРµС… СЌРєСЂР°РЅР°С…, РєСЂРѕРјРµ С‚РѕСЂРіРѕРІР»Рё</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_playertrade">
-		<text>Сортировать инвентарь игрока при торговле</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІР°С‚СЊ РёРЅРІРµРЅС‚Р°СЂСЊ РёРіСЂРѕРєР° РїСЂРё С‚РѕСЂРіРѕРІР»Рµ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_playertrade_desc">
-		<text>Сортировка правой стороны инвентаря на экране торговли</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІРєР° РїСЂР°РІРѕР№ СЃС‚РѕСЂРѕРЅС‹ РёРЅРІРµРЅС‚Р°СЂСЏ РЅР° СЌРєСЂР°РЅРµ С‚РѕСЂРіРѕРІР»Рё</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_npcinv">
-		<text>Сортировать инвентарь NPC</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІР°С‚СЊ РёРЅРІРµРЅС‚Р°СЂСЊ NPC</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_npcinv_desc">
-		<text>Сортировка левой стороны инвентаря на всех экранах, кроме торговли</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІРєР° Р»РµРІРѕР№ СЃС‚РѕСЂРѕРЅС‹ РёРЅРІРµРЅС‚Р°СЂСЏ РЅР° РІСЃРµС… СЌРєСЂР°РЅР°С…, РєСЂРѕРјРµ С‚РѕСЂРіРѕРІР»Рё</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_npctrade">
-		<text>Сортировать инвентарь торговцев</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІР°С‚СЊ РёРЅРІРµРЅС‚Р°СЂСЊ С‚РѕСЂРіРѕРІС†РµРІ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_npctrade_desc">
-		<text>Сортировка левой стороны инвентаря на экране торговли</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІРєР° Р»РµРІРѕР№ СЃС‚РѕСЂРѕРЅС‹ РёРЅРІРµРЅС‚Р°СЂСЏ РЅР° СЌРєСЂР°РЅРµ С‚РѕСЂРіРѕРІР»Рё</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_useltx">
-		<text>Использовать sortingplus.ltx</text>
+		<text>РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ sortingplus.ltx</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_useltx_desc">
-		<text>Игноририрование всех настроек ниже в пользу тех, которые находятся в файле sortingplus.ltx, что дает возможность более тонкой настройки</text>
+		<text>РРіРЅРѕСЂРёСЂРёСЂРѕРІР°РЅРёРµ РІСЃРµС… РЅР°СЃС‚СЂРѕРµРє РЅРёР¶Рµ РІ РїРѕР»СЊР·Сѓ С‚РµС…, РєРѕС‚РѕСЂС‹Рµ РЅР°С…РѕРґСЏС‚СЃСЏ РІ С„Р°Р№Р»Рµ sortingplus.ltx, С‡С‚Рѕ РґР°РµС‚ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ Р±РѕР»РµРµ С‚РѕРЅРєРѕР№ РЅР°СЃС‚СЂРѕР№РєРё</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_iconjunk">
-		<text>Отмечать хлам иконкой</text>	  
+		<text>РћС‚РјРµС‡Р°С‚СЊ С…Р»Р°Рј РёРєРѕРЅРєРѕР№</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_iconjunk_desc">
-		<text>Все предметы, отмеченные как хлам, будут помечены специальной иконкой</text>
+		<text>Р’СЃРµ РїСЂРµРґРјРµС‚С‹, РѕС‚РјРµС‡РµРЅРЅС‹Рµ РєР°Рє С…Р»Р°Рј, Р±СѓРґСѓС‚ РїРѕРјРµС‡РµРЅС‹ СЃРїРµС†РёР°Р»СЊРЅРѕР№ РёРєРѕРЅРєРѕР№</text>
 	</string>
-									   
+
 	<string id="ui_mcm_SortingPlus_hilitejunk">
-		<text>Подсвечивать хлам</text>
+		<text>РџРѕРґСЃРІРµС‡РёРІР°С‚СЊ С…Р»Р°Рј</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_hilitejunk_desc">
-		<text>Все предметы, отмеченные как хлам, будут подсвечены</text>
+		<text>Р’СЃРµ РїСЂРµРґРјРµС‚С‹, РѕС‚РјРµС‡РµРЅРЅС‹Рµ РєР°Рє С…Р»Р°Рј, Р±СѓРґСѓС‚ РїРѕРґСЃРІРµС‡РµРЅС‹</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_sortjunk">
-		<text>Сортировать хлам</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІР°С‚СЊ С…Р»Р°Рј</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_sortjunk_desc">
-		<text>Все предметы, отмеченные как хлам, будут вынесены в отдельную категорию, по умолчанию в конце инвентаря</text>
+		<text>Р’СЃРµ РїСЂРµРґРјРµС‚С‹, РѕС‚РјРµС‡РµРЅРЅС‹Рµ РєР°Рє С…Р»Р°Рј, Р±СѓРґСѓС‚ РІС‹РЅРµСЃРµРЅС‹ РІ РѕС‚РґРµР»СЊРЅСѓСЋ РєР°С‚РµРіРѕСЂРёСЋ, РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ РІ РєРѕРЅС†Рµ РёРЅРІРµРЅС‚Р°СЂСЏ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_selljunk">
-		<text>Автопродажа хлама</text>
+		<text>РђРІС‚РѕРїСЂРѕРґР°Р¶Р° С…Р»Р°РјР°</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_selljunk_desc">
-		<text>Весь хлам, который может купить торговец, будет автоматически помещен в панель продажи. Все что вам остается, это нажать кнопку продажи, чтобы завершить сделку</text>
+		<text>Р’РµСЃСЊ С…Р»Р°Рј, РєРѕС‚РѕСЂС‹Р№ РјРѕР¶РµС‚ РєСѓРїРёС‚СЊ С‚РѕСЂРіРѕРІРµС†, Р±СѓРґРµС‚ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё РїРѕРјРµС‰РµРЅ РІ РїР°РЅРµР»СЊ РїСЂРѕРґР°Р¶Рё. Р’СЃРµ С‡С‚Рѕ РІР°Рј РѕСЃС‚Р°РµС‚СЃСЏ, СЌС‚Рѕ РЅР°Р¶Р°С‚СЊ РєРЅРѕРїРєСѓ РїСЂРѕРґР°Р¶Рё, С‡С‚РѕР±С‹ Р·Р°РІРµСЂС€РёС‚СЊ СЃРґРµР»РєСѓ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_iconfavs">
-		<text>Отмечать избранное иконкой</text>
+		<text>РћС‚РјРµС‡Р°С‚СЊ РёР·Р±СЂР°РЅРЅРѕРµ РёРєРѕРЅРєРѕР№</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_iconfavs_desc">
-		<text>Все предметы, отмеченные как избранное, будут помечены специальной иконкой</text>
+		<text>Р’СЃРµ РїСЂРµРґРјРµС‚С‹, РѕС‚РјРµС‡РµРЅРЅС‹Рµ РєР°Рє РёР·Р±СЂР°РЅРЅРѕРµ, Р±СѓРґСѓС‚ РїРѕРјРµС‡РµРЅС‹ СЃРїРµС†РёР°Р»СЊРЅРѕР№ РёРєРѕРЅРєРѕР№</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_hilitefavs">
-		<text>Подсвечивать избранное</text>
+		<text>РџРѕРґСЃРІРµС‡РёРІР°С‚СЊ РёР·Р±СЂР°РЅРЅРѕРµ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_hilitefavs_desc">
-		<text>Все предметы, отмеченные как избранное, будут подсвечены</text>
+		<text>Р’СЃРµ РїСЂРµРґРјРµС‚С‹, РѕС‚РјРµС‡РµРЅРЅС‹Рµ РєР°Рє РёР·Р±СЂР°РЅРЅРѕРµ, Р±СѓРґСѓС‚ РїРѕРґСЃРІРµС‡РµРЅС‹</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_sortfavs">
-		<text>Сортировать избранное</text>
+		<text>РЎРѕСЂС‚РёСЂРѕРІР°С‚СЊ РёР·Р±СЂР°РЅРЅРѕРµ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_sortfavs_desc">
-		<text>Все предметы, отмеченные как избранное, будут вынесены в отдельную категорию, по умолчанию в начале инвентаря</text>
+		<text>Р’СЃРµ РїСЂРµРґРјРµС‚С‹, РѕС‚РјРµС‡РµРЅРЅС‹Рµ РєР°Рє РёР·Р±СЂР°РЅРЅРѕРµ, Р±СѓРґСѓС‚ РІС‹РЅРµСЃРµРЅС‹ РІ РѕС‚РґРµР»СЊРЅСѓСЋ РєР°С‚РµРіРѕСЂРёСЋ, РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ РІ РЅР°С‡Р°Р»Рµ РёРЅРІРµРЅС‚Р°СЂСЏ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_putallfavs">
-		<text>Не перемещать избранное при нажатии "Сложить все"  </text>
+		<text>РќРµ РїРµСЂРµРјРµС‰Р°С‚СЊ РёР·Р±СЂР°РЅРЅРѕРµ РїСЂРё РЅР°Р¶Р°С‚РёРё "РЎР»РѕР¶РёС‚СЊ РІСЃРµ"  </text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_putallfavs_desc">
-		<text>Все предметы, отмеченные как избранное, не будут перемещены при нажатии кнопки "Сложить все"</text>
+		<text>Р’СЃРµ РїСЂРµРґРјРµС‚С‹, РѕС‚РјРµС‡РµРЅРЅС‹Рµ РєР°Рє РёР·Р±СЂР°РЅРЅРѕРµ, РЅРµ Р±СѓРґСѓС‚ РїРµСЂРµРјРµС‰РµРЅС‹ РїСЂРё РЅР°Р¶Р°С‚РёРё РєРЅРѕРїРєРё "РЎР»РѕР¶РёС‚СЊ РІСЃРµ"</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_resort">
-		<text>Сразу сортировать отмеченные предметы</text>
+		<text>РЎСЂР°Р·Сѓ СЃРѕСЂС‚РёСЂРѕРІР°С‚СЊ РѕС‚РјРµС‡РµРЅРЅС‹Рµ РїСЂРµРґРјРµС‚С‹</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_resort_desc">
-		<text>Как только предмет будет отмечен как избранное или как хлам, он сразу же будет отсортирован в инвентаре. В противном случае сортировка произойдет только при следующем открытии инвентаря. Может быть полезно, если отключена подсветка отмеченных предметов</text>
+		<text>РљР°Рє С‚РѕР»СЊРєРѕ РїСЂРµРґРјРµС‚ Р±СѓРґРµС‚ РѕС‚РјРµС‡РµРЅ РєР°Рє РёР·Р±СЂР°РЅРЅРѕРµ РёР»Рё РєР°Рє С…Р»Р°Рј, РѕРЅ СЃСЂР°Р·Сѓ Р¶Рµ Р±СѓРґРµС‚ РѕС‚СЃРѕСЂС‚РёСЂРѕРІР°РЅ РІ РёРЅРІРµРЅС‚Р°СЂРµ. Р’ РїСЂРѕС‚РёРІРЅРѕРј СЃР»СѓС‡Р°Рµ СЃРѕСЂС‚РёСЂРѕРІРєР° РїСЂРѕРёР·РѕР№РґРµС‚ С‚РѕР»СЊРєРѕ РїСЂРё СЃР»РµРґСѓСЋС‰РµРј РѕС‚РєСЂС‹С‚РёРё РёРЅРІРµРЅС‚Р°СЂСЏ. РњРѕР¶РµС‚ Р±С‹С‚СЊ РїРѕР»РµР·РЅРѕ, РµСЃР»Рё РѕС‚РєР»СЋС‡РµРЅР° РїРѕРґСЃРІРµС‚РєР° РѕС‚РјРµС‡РµРЅРЅС‹С… РїСЂРµРґРјРµС‚РѕРІ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_001loadout">
-		<text>Разгрузки</text>
+		<text>Р Р°Р·РіСЂСѓР·РєРё</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_002mags">
-		<text>Магазины</text>
+		<text>РњР°РіР°Р·РёРЅС‹</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_000favorites">
-		<text>Избранное</text>
+		<text>РР·Р±СЂР°РЅРЅРѕРµ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_999junk">
-		<text>Хлам</text>
+		<text>РҐР»Р°Рј</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_010weapons">
-		<text>Оружие</text>
+		<text>РћСЂСѓР¶РёРµ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_020outfits">
-		<text>Снаряжение</text>
+		<text>РЎРЅР°СЂСЏР¶РµРЅРёРµ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_030artifacts">
-		<text>Артефакты</text>
+		<text>РђСЂС‚РµС„Р°РєС‚С‹</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_040devices">
-		<text>Устройства</text>
+		<text>РЈСЃС‚СЂРѕР№СЃС‚РІР°</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_050tools">
-		<text>Инструменты</text>
+		<text>РРЅСЃС‚СЂСѓРјРµРЅС‚С‹</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_060medical">
-		<text>Медицина</text>
+		<text>РњРµРґРёС†РёРЅР°</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_070foods">
-		<text>Обычная еда</text>
+		<text>РћР±С‹С‡РЅР°СЏ РµРґР°</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_080mutantfoods">
-		<text>Еда из мутантов</text>
+		<text>Р•РґР° РёР· РјСѓС‚Р°РЅС‚РѕРІ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_090quest">
-		<text>Квестовые предметы</text>
+		<text>РљРІРµСЃС‚РѕРІС‹Рµ РїСЂРµРґРјРµС‚С‹</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_100notes">
-		<text>Заметки</text>
+		<text>Р—Р°РјРµС‚РєРё</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_110ammo">
-		<text>Боеприпасы</text>
+		<text>Р‘РѕРµРїСЂРёРїР°СЃС‹</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_120mutantparts">
-		<text>Части мутантов</text>
+		<text>Р§Р°СЃС‚Рё РјСѓС‚Р°РЅС‚РѕРІ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_130misc">
-		<text>Разное</text>
+		<text>Р Р°Р·РЅРѕРµ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_140upgrades">
-		<text>Улучшения</text>
+		<text>РЈР»СѓС‡С€РµРЅРёСЏ</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_150parts">
-		<text>Запчасти</text>
+		<text>Р—Р°РїС‡Р°СЃС‚Рё</text>
 	</string>
 </string_table>

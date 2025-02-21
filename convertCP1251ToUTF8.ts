@@ -5,12 +5,12 @@ import { decode } from "windows-1251";
 	const russianTranslationFiles = await readdir("./rus/");
 
 	for (const fileName of russianTranslationFiles) {
-		const file = Bun.file(`./rus/${fileName}`);
+		const file = Bun.file(`./rus-release/${fileName}`);
 
 		const xml = await file.bytes();
 		const utf8Text = decode(xml);
 
-		await Bun.write(`./rus-utf8/${fileName}`, utf8Text);
+		await Bun.write(`./rus/${fileName}`, utf8Text);
 
 		console.log(`RUS: ${fileName}`);
 	}
@@ -18,12 +18,12 @@ import { decode } from "windows-1251";
 	const englishTranslationFiles = await readdir("./eng/");
 
 	for (const fileName of englishTranslationFiles) {
-		const file = Bun.file(`./eng/${fileName}`);
+		const file = Bun.file(`./eng-release/${fileName}`);
 
 		const xml = await file.bytes();
 		const utf8Text = decode(xml);
 
-		await Bun.write(`./eng-utf8/${fileName}`, utf8Text);
+		await Bun.write(`./eng/${fileName}`, utf8Text);
 
 		console.log(`ENG: ${fileName}`);
 	}
