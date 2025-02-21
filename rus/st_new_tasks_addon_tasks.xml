@@ -442,6 +442,113 @@
 		<text>Уникальный артефакт, родившийся в Греческом огне после того, как был убит сталкер из одноимённой легенды. Он даёт обладателю огромную устойчивость к термическому воздействию и заставляет раны заживать быстрее.</text>
 	</string>
 	
+	<!-- Mystery of the Swamps -->
+	<string id="task_mystery_of_the_swamps_name">
+		<text>Тайна Болот</text>
+	</string>
+	<string id="task_mystery_of_the_swamps_text">
+		<text>Сахаров попросил меня помочь в расследовании последних аномалий в болотистых районах Зоны</text>
+	</string>
+
+	<string id="mystery_of_the_swamps_barman_msg_1">
+		<text>Эй, друг! Подойди сюда, нам нужно поговорить</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_1">
+		<text>Мы приближаемся. Будь настороже.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_2">
+		<text>Думаю, это последние из них. Сахаров был прав... количество Карликов было аномально высоким. Ладно, занимайся своими научными делами. Нам не стоит оставаться здесь слишком долго.</text>
+	</string>
+	<string id="mystery_of_the_swamps_ecolog_msg_1">
+		<text>Занимаюсь!</text>
+	</string>
+	<string id="mystery_of_the_swamps_ecolog_msg_2">
+		<text>Я собрал все данные. Пора возвращаться в бункер.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_fail_1">
+		<text>Ты меня разочаровал, сталкер... нанять тебя в качестве телохранителя было ошибкой.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_1">
+		<text>Думаю, нам стоит оставаться рядом, дружище. Мы не знаем, что убило того ученого.</text>
+	</string>
+	<string id="mystery_of_the_swamps_data_collected_1">
+		<text>Данные собраны.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_2">
+		<text>О, ЧЕРТ! Берегись!</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_3">
+		<text>Что, черт возьми, это было?!</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_3">
+		<text>Похоже, это был... призрак... У меня плохое предчувствие...</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_4">
+		<text>Призрак? Снова? У меня плохое предчувствие...</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_1">
+		<text>Стелкер! Ты на связи? Изменились планы! Направляйся к заброшенной ферме в Темной долине. Один из наших ученых срочно нуждается в медицинской помощи! Я отправляю тебе координаты. Не упоминай про деньги - мы разберемся с этим позже.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_5">
+		<text>Слишком поздно, профессор. Ваш человек мертв. Однако на его теле не видно ран... Что здесь происходит?</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_2">
+		<text>Еще одна трагедия...\n\nЭтот человек был отправлен с двумя телохранителями для снятия показаний с болота в Темной долине. Он сказал, что их атаковало некое существо, и он едва выбрался живым. Несколько минут спустя он сообщил, что теряет чувства и чувствует невыносимую боль по всему телу. Мы потеряли связь с ним, но сумели зафиксировать его последние координаты. После этого мы связались с тобой.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_6">
+		<text>Ну, этот человек, вероятно, был мертв задолго до того, как я сюда добрался. Ничего с этим уже не поделаешь. Скоро буду в твоем бункере.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_3">
+		<text>Держись, парень. Так как ты уже здесь, ты не хочешь позаботиться об этом мутанте перед тем, как вернешься? За цену, разумеется.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_7">
+		<text>Вероятно, это то же самое, что убило твоего другого человека. Могу заняться этим.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_4">
+		<text>Подожди секунду! Я не подписывался на все это дерьмо! Здесь происходит что-то безумное, и я не хочу иметь с этим ничего общего! Я ухожу!</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_4_1">
+		<text>Не переживай. Я связался с другой командой, которая проводила расследование на болоте в Темной долине. Два их телохранителя согласились помочь тебе. Они уже на пути к твоей позиции.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_4_2">
+		<text>Я связался с другой командой, которая проводила расследование на болоте в Темной долине. Два их телохранителя согласились помочь тебе. Они уже на пути к твоей позиции.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_8">
+		<text>Мы близки. Займите оборонительные позиции и обеспечьте безопасность территории. Я буду искать тела и мутанта, который убил ученых.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_fail_2">
+		<text>Отмени миссию, сталкер. Похоже, ты не подходишь для этого...</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_9">
+		<text>Должно быть, это всё. Готовься к выходу. Я буду через минуту.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_10">
+		<text>Вы готовы? Давайте двигаться...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_5">
+		<text>Подождите! Мой радиоприемник что-то ловит.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_5">
+		<text>Об... миссии! ... док..., об...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_6">
+		<text>Это Сахаров. Нам нужно выбраться из этого чертового каньона, чтобы поймать сигнал...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_7">
+		<text>Что, черт возьми, это было!?</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_11">
+		<text>Беги!</text>
+	</string>
+
+	<string id="st_af_tlf_lost_soul">
+		<text>Потерянная душа</text>
+	</string>
+	<string id="st_af_tlf_lost_soul_descr">
+		<text>Хотя этот артефакт напоминает обычную душу, он обладает необычными свойствами. Он обеспечивает большую защиту от телепатии и не имеет негативных эффектов.</text>
+	</string>
+	<!-- Mystery of the Swamps end -->
+
 	<!-- The Living Fire end -->
 	<string id="nta_intercept_item">
 		<text>Перехватить предмет:</text>
