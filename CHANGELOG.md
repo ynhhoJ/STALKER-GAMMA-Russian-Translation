@@ -14,6 +14,15 @@ Recommendation: for ease of reading, use the following order:
 - Security
 -->
 
+## [0.3.0] - 2025-02-24
+### Added
+- `st_items_weapons_grok.xml` - **G.A.M.M.A Weapons Pack**
+- `st_perk_based_artefacts_perks.xml` - **Perk-Based Artefacts**
+
+### Changed
+- `ui_st_jamming.xml` - Improve general quality of translations & make more consitent experience.
+- `ui_st_invetory.xml` - Improve general quality of translations & make more consitent experience.
+
 ## [0.2.0] - 2025-02-22
 ### Added
 - `st_ammo_parts.xml` - **145 - Ammo Maker**

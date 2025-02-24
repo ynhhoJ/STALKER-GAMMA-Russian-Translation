@@ -19,6 +19,7 @@
 3. Find `/mods/287- G.A.M.M.A. Massive Text Overhaul Project - SageDaHerb and Dr.Pr1nkos` folder
 4. Open `rus` folder from `/mods/287- G.A.M.M.A. Massive Text Overhaul Project - SageDaHerb and Dr.Pr1nkos/gamedata/configs/text` or create one
 5. Move all files from `.zip` file into `rus` folder from step `4`.
+6. `ui_st_jamming.xml` should be copied into `/mods/G.A.M.M.A. Unjam Reload on the same key/gamedata/configs/text/rus`
 
 ## License
 
