@@ -13,6 +13,55 @@ Recommendation: for ease of reading, use the following order:
 - Fixed
 - Security
 -->
+## [0.4.0] - 2025-02-25
+### Added
+- Translated information about weapons:
+	- `st_items_weapons_ace_52.xml`: **Galil ACE-52**
+	- `st_items_weapons_addons_grok.xml`:
+		1. **Leupold M40**
+		2. **Aimpoint H1H**
+	- `st_items_weapons_ithacam37.xml`:
+		1. **Ithaca M37 «Riot»**
+		2. **Ithaca M37 «Trenchgun»**
+		3. **Ithaca M37 «Defense»**
+		4. **Ithaca M37 «Stakeout»**
+		5. **Ithaca M37 «Sawn Off»**
+	- `st_items_weapons_am17.xml`: **АМ-17**
+	- `st_items_weapons_amb17.xml`: **АМБ-17**
+	- `st_items_weapons_arisaka.xml`: **Arisaka Type 38**
+	- `st_items_weapons_augmented.xml`:
+		1. **Steyr AUG A1**
+		2. **Steyr AUG A2**
+		3. **Steyr AUG A3**
+		4. **Thales EF88**
+		5. **Steyr AUG A3 9mm**
+	- `st_items_weapons_deagle.xml`:
+		1. **Desert Eagle «Степной орёл»**
+		2. **Desert Eagle**
+	- `st_items_weapons_dtmdr.xml`:
+		1. **Desert Tech MDR 7.62x51**
+		2. **Desert Tech MDR 5.56x45**
+	- `st_weapon_displays.xml`: Added translations for weapons display rack
+	- `st_wpn_benelli_m1014.xml`: **M1014**
+	- `st_wpn_brn180.xml`:
+		1. **BRN-180**
+		2. **BRN-180 «Лич»**
+	- `st_wpn_g36.xml`:
+		1. **G36**
+		2. **G36K**
+		3. **G36C**
+		4. **G36 «СТРАХ»**
+	- `st_wpn_mk47.xml`: **CMMG Mk47 Mutant**
+	- `st_wpn_mp155.xml`: **Байкал МП-155**
+	- `st_wpn_rpk16.xml`: **РПК-16**
+	- `st_wpn_steyr_scout.xml`:
+		1. **Steyr Scout 5.56**
+		2. **Steyr Scout 7.62**
+	- `st_wpn_vihr.xml`: **СР-3М «Вихрь»**
+	- `st_wpn_winchester1873.xml`: **Winchester Model 1873**
+	- `st_wpn_xm4.xml`: **XM177e2**
+
+- Completed information with included parts of Mauser K98 Kit (`st_items_weapons_mauser_kit`)
 
 ## [0.3.0] - 2025-02-24
 ### Added
