@@ -10,21 +10,21 @@ import iconv from "iconv-lite";
 		const xml = await file.text();
 		const encoded = iconv.encode(xml, "win1251");
 
-		await Bun.write(`./rus-release/${fileName}`, encoded);
+		await Bun.write(`./release/${fileName}`, encoded);
 
 		console.log(fileName);
 	}
 
-	const englishTranslationFiles = await readdir("./eng-utf8/");
-
-	for (const fileName of englishTranslationFiles) {
-		const file = Bun.file(`./eng-utf8/${fileName}`);
-
-		const xml = await file.text();
-		const encoded = iconv.encode(xml, "win1251");
-
-		await Bun.write(`./eng-release/${fileName}`, encoded);
-
-		console.log(fileName);
-	}
+	// const englishTranslationFiles = await readdir("./eng-utf8/");
+	//
+	// for (const fileName of englishTranslationFiles) {
+	// 	const file = Bun.file(`./eng-utf8/${fileName}`);
+	//
+	// 	const xml = await file.text();
+	// 	const encoded = iconv.encode(xml, "win1251");
+	//
+	// 	await Bun.write(`./eng-release/${fileName}`, encoded);
+	//
+	// 	console.log(fileName);
+	// }
 })();
