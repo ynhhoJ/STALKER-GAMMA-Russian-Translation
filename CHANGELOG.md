@@ -13,6 +13,20 @@ Recommendation: for ease of reading, use the following order:
 - Fixed
 - Security
 -->
+## [0.5.0] - 2025-02-28
+### Added
+- `pp2.xml`: **ПП-2000**
+- `pp2o.xml`: **ПП-2000 "Оператор"**
+- `st_g36_rwap.xml`:
+	1. **G36C "Merc"**
+	2. **G36V**
+	3. **G36KA4**
+- `st_items_weapons_bas_rus.xml`: Added
+
+### Changed
+- `st_items_weapons_bas_rus`: Fixed typo in `Rifle Dynamics RD-9x39 ISG` description
+- `st_items_weapons_grok.xml`: Updated translations
+
 ## [0.4.0] - 2025-02-25
 ### Added
 - Translated information about weapons:
