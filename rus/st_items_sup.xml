@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_addon_scope_sup_new">
+		<text>S.U.P. Special Upgrade Pack</text>
+	</string>
+
+	<string id="st_addon_scope_sup_new_descr">
+		<text>Комплект навесного оборудования, включающий в себя различные инструменты, детали и прицелы для модернизации широкого спектра оружия.</text>
+	</string>
+</string_table>
