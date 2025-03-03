@@ -20,7 +20,6 @@ Recommendation: for ease of reading, use the following order:
 - `z_st_mp_magazine.xml`: **MP9** magazines translations
 - Added two fixes made by @SaloEater https://github.com/Grokitach/Stalker_GAMMA/pull/449/commits/6be69a48c20f9524afb733019fba26ce5924ecfc & https://github.com/Grokitach/Stalker_GAMMA/pull/449/commits/a676abdee602b590fb19668adf374b93e0376d4b into release folder
 
-
 ### Changed
 - Installation guide was changed
 - `ui_st_faction_starts.xml`: Locations name changes

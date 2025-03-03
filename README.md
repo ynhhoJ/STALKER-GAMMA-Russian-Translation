@@ -16,10 +16,9 @@
 ## Instalation
 1. Download `.zip` file from [release page](https://github.com/0u73r-h34v3n/STALKER-GAMMA-Russian-Translation/releases).
 2. Go to `G.A.M.M.A` folder of your game
-3. Find `/mods/287- G.A.M.M.A. Massive Text Overhaul Project - SageDaHerb and Dr.Pr1nkos` folder
-4. Open `rus` folder from `/mods/287- G.A.M.M.A. Massive Text Overhaul Project - SageDaHerb and Dr.Pr1nkos/gamedata/configs/text` or create one
-5. Move all files from `.zip` file into `rus` folder from step `4`.
-6. `ui_st_jamming.xml` should be copied into `/mods/G.A.M.M.A. Unjam Reload on the same key/gamedata/configs/text/rus`
+3. **Create a backup of `/mods` folder**
+4. Open `/mods` folder
+5. Move all folders extracted from `.zip` into `/mods` folder
 
 ## License
 
