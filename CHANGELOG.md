@@ -13,6 +13,20 @@ Recommendation: for ease of reading, use the following order:
 - Fixed
 - Security
 -->
+## [0.6.0] - 2025-03-01
+### Added
+- `st_items_sup.xml`: **Special Upgrade Pack** translation
+- `st_iwpmp9.xml`: **Brugger & Thomet MP9** translation
+- `z_st_mp_magazine.xml`: **MP9** magazines translations
+- Added two fixes made by @SaloEater https://github.com/Grokitach/Stalker_GAMMA/pull/449/commits/6be69a48c20f9524afb733019fba26ce5924ecfc & https://github.com/Grokitach/Stalker_GAMMA/pull/449/commits/a676abdee602b590fb19668adf374b93e0376d4b into release folder
+
+
+### Changed
+- Installation guide was changed
+- `ui_st_faction_starts.xml`: Locations name changes
+	- `Кладбище грузовиков` to `Кладбище техники`
+	- `Мусор` to `Свалка`
+
 ## [0.5.0] - 2025-02-28
 ### Added
 - `pp2.xml`: **ПП-2000**
