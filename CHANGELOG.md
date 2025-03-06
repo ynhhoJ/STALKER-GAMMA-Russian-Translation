@@ -13,6 +13,17 @@ Recommendation: for ease of reading, use the following order:
 - Fixed
 - Security
 -->
+## [0.7.0] - 2025-03-06
+### Added
+- `ui_st_inventory_grok_artefacts.xml`: Make menu options with uppercase
+- `st_wait.xml`: Make menu option `Провести время` with uppercase
+- `st_zone_keeper.xml`: Translated only strings `У вас есть X в инвентаре` and `У вас есть X в тайниках`
+- Synced some files with translations by @SaloEater
+
+### Changed
+- `ui_st_invetory.xml`: Modify menu option `Создать тайник` to begin with uppercase
+- `ui_st_jamming.xml`: Modify `Сломанный (-ая)` to `Сломанный`
+
 ## [0.6.0] - 2025-03-01
 ### Added
 - `st_items_sup.xml`: **Special Upgrade Pack** translation
