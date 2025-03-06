@@ -20,6 +20,10 @@
 4. Open `/mods` folder
 5. Move all folders extracted from `.zip` into `/mods` folder
 
+## Credits
+- **Dr.Pr1nkos** for initial translations of GMTOP files
+- **SaloEater** for help with translations & GAMMA scripts modifications
+
 ## License
 
 MIT
