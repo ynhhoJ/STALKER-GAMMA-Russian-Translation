@@ -13,6 +13,28 @@ Recommendation: for ease of reading, use the following order:
 - Fixed
 - Security
 -->
+## [0.8.0] - 2025-04-02
+### Added
+- `st_quests_gamma.xml`
+- `st_items_weapons_ppk_ppp.xml`
+- `st_items_weapons_p220_ppp.xml`
+- `st_items_weapons_fort.xml`
+- `st_items_weapons_addons_rubrakul.xml`
+- `st_items_rifle_magazines_bas.xml`
+- `st_items_outfit.xml`
+- `st_items_magazine_bas.xml`
+- `st_items_devices_exo.xml`
+
+### Changed
+- Fixed typo for:
+	- `st_g36_rwap.xml`
+	- `st_iteams_weapons_grok.xml`
+	- `st_items_weapons_ithacam37.xml`
+	- `st_weapon_displays.xml`
+	- `st_wpn_benelli_m1014.xml`
+	- `st_wpn_mk47.xml`
+	- `st_wpn_rpk16.xml`
+
 ## [0.7.0] - 2025-03-06
 ### Added
 - `ui_st_inventory_grok_artefacts.xml`: Make menu options with uppercase
