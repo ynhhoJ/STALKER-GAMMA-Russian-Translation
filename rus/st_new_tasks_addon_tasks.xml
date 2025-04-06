@@ -755,4 +755,13 @@
 	<string id="nta_intercept_item">
 		<text>Перехватить предмет:</text>
 	</string>
+	    <string id="nta_search_the_stash">
+        <text>Обыскать тайник</text>
+    </string>
+    <string id="nta_quest_documents_name">
+        <text>Зашифрованные документы</text>
+    </string>
+    <string id="nta_quest_documents_desc">
+        <text>Тщательно зашифрованные документы, которые невозможно разгадать без подходящего ключа к шифру.</text>
+    </string>
 </string_table>
