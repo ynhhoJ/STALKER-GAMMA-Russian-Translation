@@ -23,6 +23,7 @@
 ## Credits
 - **Dr.Pr1nkos** for initial translations of GMTOP files
 - **SaloEater** for help with translations & GAMMA scripts modifications
+- **Asskaro** for help with translations and general text improvements
 
 ## License
 
