@@ -13,6 +13,10 @@ Recommendation: for ease of reading, use the following order:
 - Fixed
 - Security
 -->
+## [0.9.0] - 2025-04-13
+### Changed
+- `st_new_tasks_addon_tasks.xml`: Modified name `Пилот` to `Лоцман` in **Pilot's PDA** quest and litle fix of description by @Asskaro
+
 ## [0.8.0] - 2025-04-02
 ### Added
 - `st_quests_gamma.xml`
