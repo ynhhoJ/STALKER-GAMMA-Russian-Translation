@@ -35,45 +35,6 @@
 ## Missed string IDs
 
 <details>
-	 <summary> <code>st_items_magazines.xml</code> (7) </summary>
-
-1. `ui_mcm_magazines_gameplay_loadstash_behavior_desc`<br />
-2. `ui_mcm_magazines_gameplay_tacload`<br />
-3. `ui_mcm_magazines_gameplay_tacload_desc`<br />
-4. `ui_mcm_magazines_gameplay_load_behavior_desc`<br />
-5. `ui_mcm_magazines_gameplay_unload_behavior_desc`<br />
-6. `ui_mcm_lst_ind`<br />
-7. `ui_mcm_lst_box`<br />
-
-</details>
-
-<details>
-	 <summary> <code>st_items_magazines_bas.xml</code> (20) </summary>
-
-1. `st_mag_baskiparis_9x18_20`<br />
-2. `st_mag_baskiparis_9x18_20_descr`<br />
-3. `st_mag_baskiparis_9x19_20`<br />
-4. `st_mag_baskiparis_9x19_20_descr`<br />
-5. `st_mag_baskiparis_9x18_40`<br />
-6. `st_mag_baskiparis_9x18_40_descr`<br />
-7. `st_mag_baskiparis_9x19_40`<br />
-8. `st_mag_baskiparis_9x19_40_descr`<br />
-9. `st_mag_baskiparis_9x18_81`<br />
-10. `st_mag_baskiparis_9x18_81_descr`<br />
-11. `st_mag_baskiparis_9x19_81`<br />
-12. `st_mag_baskiparis_9x19_81_descr`<br />
-13. `st_mag_basvz61_9x18_30`<br />
-14. `st_mag_basvz61_9x18_30_descr`<br />
-15. `st_mag_basvz61_9x19_30`<br />
-16. `st_mag_basvz61_9x19_30_descr`<br />
-17. `st_mag_basvz61_9x18_60`<br />
-18. `st_mag_basvz61_9x18_60_descr`<br />
-19. `st_mag_basvz61_9x19_60`<br />
-20. `st_mag_basvz61_9x19_60_descr`<br />
-
-</details>
-
-<details>
 	 <summary> <code>st_items_magazines_fix.xml</code> (10) <b>[missed file]</b></summary>
 
 1. `mag_kriss45`<br />
@@ -86,14 +47,6 @@
 8. `ext_mag_kriss9_drum_descr`<br />
 9. `st_mag_mp7_5.7x28_ss190`<br />
 10. `st_mag_mp7_5.7x28_ss190_descr`<br />
-
-</details>
-
-<details>
-	 <summary> <code>ui_furniture.xml</code> (2) </summary>
-
-1. `st_rotation_label`<br />
-2. `st_vertical_label`<br />
 
 </details>
 
@@ -361,13 +314,6 @@
 98. `encyclopedia__notes_note_from_grifon`<br />
 99. `encyclopedia__notes_note_from_grifon_text`<br />
 100. `encyclopedia__notes_note_from_grifon_text2`<br />
-
-</details>
-
-<details>
-	 <summary> <code>st_outfit_drops.xml</code> (1) </summary>
-
-1. `ui_mcm_outfitdrop_parts_debug_desc`<br />
 
 </details>
 
@@ -5448,184 +5394,10 @@
 </details>
 
 <details>
-	 <summary> <code>st_items_weapons_addons_bas_eng.xml</code> (176) <b>[missed file]</b></summary>
+	 <summary> <code>st_items_weapons_addons_bas_eng.xml</code> (2) <b>[missed file]</b></summary>
 
-1. `st_addon_scope_okp-7`<br />
-2. `st_addon_scope_okp-7_descr`<br />
-3. `st_addon_scope_rmr`<br />
-4. `st_addon_scope_rmr_descr`<br />
-5. `st_addon_scope_aimpoint`<br />
-6. `st_addon_scope_aimpoint_descr`<br />
-7. `st_addon_scope_ekp8_02`<br />
-8. `st_addon_scope_ekp8_02_descr`<br />
-9. `st_addon_scope_specterDR`<br />
-10. `st_addon_scope_specterDR_descr`<br />
-11. `st_addon_scope_pso2`<br />
-12. `st_addon_scope_pso2_descr`<br />
-13. `st_addon_scope_0kp2`<br />
-14. `st_addon_scope_0kp2_descr`<br />
-15. `st_addon_scope_d0cter`<br />
-16. `st_addon_scope_d0cter_descr`<br />
-17. `st_addon_scope_1p59`<br />
-18. `st_addon_scope_1p59_descr`<br />
-19. `st_addon_scope_1pn93`<br />
-20. `st_addon_scope_1pn93_descr`<br />
-21. `st_addon_scope_pks`<br />
-22. `st_addon_scope_pks_descr`<br />
-23. `st_addon_scope_leupold`<br />
-24. `st_addon_scope_leupold_descr`<br />
-25. `st_addon_scope_mepro`<br />
-26. `st_addon_scope_mepro_descr`<br />
-27. `st_addon_scope_aim_low`<br />
-28. `st_addon_scope_aim_low_descr`<br />
-29. `st_addon_scope_aimpoint_pro`<br />
-30. `st_addon_scope_aimpoint_pro_descr`<br />
-31. `st_addon_scope_1p76`<br />
-32. `st_addon_scope_1p76_descr`<br />
-33. `st_addon_scope_pka`<br />
-34. `st_addon_scope_pka_descr`<br />
-35. `st_addon_scope_ekp8_18`<br />
-36. `st_addon_scope_ekp8_18_descr`<br />
-37. `st_addon_sil_osprey`<br />
-38. `st_addon_sil_osprey_descr`<br />
-39. `st_addon_sil_salvo`<br />
-40. `st_addon_sil_salvo_descr`<br />
-41. `st_addon_scope_deltapoint`<br />
-42. `st_addon_scope_deltapoint_descr`<br />
-43. `st_addon_scope_e0t2`<br />
-44. `st_addon_scope_e0t2_descr`<br />
-45. `st_addon_scope_pn23`<br />
-46. `st_addon_scope_pn23_descr`<br />
-47. `st_addon_scope_gauss_sight`<br />
-48. `st_addon_scope_gauss_sight_descr`<br />
-49. `st_addon_sil_hexagon`<br />
-50. `st_addon_sil_hexagon_descr`<br />
-51. `st_addon_scope_marchf`<br />
-52. `st_addon_scope_marchf_descr`<br />
-53. `st_addon_scope_pgo7gs`<br />
-54. `st_addon_scope_pgo7gs_descr`<br />
-55. `st_addon_scope_rakurs`<br />
-56. `st_addon_scope_rakurs_descr`<br />
-57. `st_addon_scope_compm4s`<br />
-58. `st_addon_scope_compm4s_descr`<br />
-59. `st_addon_scope_susat`<br />
-60. `st_addon_scope_susat_descr`<br />
-61. `st_addon_scope_1p78gs`<br />
-62. `st_addon_scope_1p78gs_descr`<br />
-63. `st_addon_scope_1pn93n2_1gs`<br />
-64. `st_addon_scope_1pn93n2_1gs_descr`<br />
-65. `st_addon_scope_usp1`<br />
-66. `st_addon_scope_usp1_descr`<br />
-67. `st_addon_sil_rotor`<br />
-68. `st_addon_sil_rotor_descr`<br />
-69. `st_addon_scope_trijicon_rmr`<br />
-70. `st_addon_scope_trijicon_rmr_descr`<br />
-71. `st_addon_scope_mark8_rmr`<br />
-72. `st_addon_scope_mark8_rmr_descr`<br />
-73. `st_addon_scope_psicho_rmr`<br />
-74. `st_addon_scope_psicho_rmr_descr`<br />
-75. `st_addon_scope_spec_alt`<br />
-76. `st_addon_scope_spec_alt_descr`<br />
-77. `st_addon_scope_kashtan_rmr`<br />
-78. `st_addon_scope_kashtan_rmr_descr`<br />
-79. `st_addon_sil_hex23`<br />
-80. `st_addon_sil_hex23_descr`<br />
-81. `st_addon_scope_mono_kit`<br />
-82. `st_addon_scope_mono_kit_descr`<br />
-83. `st_addon_sil_aac762`<br />
-84. `st_addon_sil_aac762_descr`<br />
-85. `st_addon_sil_tgpv`<br />
-86. `st_addon_sil_tgpv_descr`<br />
-87. `st_addon_sil_osp9`<br />
-88. `st_addon_sil_osp9_descr`<br />
-89. `st_addon_sil_pmm`<br />
-90. `st_addon_sil_pmm_descr`<br />
-91. `st_addon_scope_kit_aus_tri`<br />
-92. `st_addon_scope_kit_aus_tri_descr`<br />
-93. `st_addon_scope_kit_fal_leup`<br />
-94. `st_addon_scope_kit_fal_leup_descr`<br />
-95. `st_addon_scope_kit_sa5x_spec`<br />
-96. `st_addon_scope_kit_sa5x_spec_descr`<br />
-97. `st_addon_sil_geks545`<br />
-98. `st_addon_sil_geks545_descr`<br />
-99. `st_addon_sil_kek12`<br />
-100. `st_addon_sil_kek12_descr`<br />
-101. `st_addon_sil_black_box`<br />
-102. `st_addon_sil_black_box_descr`<br />
-103. `st_addon_scope_226sig_kit`<br />
-104. `st_addon_scope_226sig_kit_descr`<br />
-105. `st_addon_scope_mod9`<br />
-106. `st_addon_scope_mod9_descr`<br />
-107. `st_addon_scope_upg220`<br />
-108. `st_addon_scope_upg220_descr`<br />
-109. `st_addon_scope_23_up`<br />
-110. `st_addon_scope_23_up_descr`<br />
-111. `st_addon_scope_kab_up`<br />
-112. `st_addon_scope_kab_up_descr`<br />
-113. `st_addon_sil_daniel`<br />
-114. `st_addon_sil_daniel_descr`<br />
-115. `st_addon_scope_archangel`<br />
-116. `st_addon_scope_archangel_descr`<br />
-117. `st_addon_scope_magpul_pro`<br />
-118. `st_addon_scope_magpul_pro_descr`<br />
-119. `st_addon_scope_mod_x_gen3`<br />
-120. `st_addon_scope_mod_x_gen3_descr`<br />
-121. `st_addon_sil_sr1m`<br />
-122. `st_addon_sil_sr1m_descr`<br />
-123. `st_addon_scope_sr1upgr1`<br />
-124. `st_addon_scope_sr1upgr1_descr`<br />
-125. `st_addon_scope_silen98`<br />
-126. `st_addon_scope_silen98_descr`<br />
-127. `st_addon_sil_forester`<br />
-128. `st_addon_sil_forester_descr`<br />
-129. `st_addon_scope_swamp`<br />
-130. `st_addon_scope_swamp_descr`<br />
-131. `st_addon_scope_lapua700`<br />
-132. `st_addon_scope_lapua700_descr`<br />
-133. `st_addon_scope_gurza_up`<br />
-134. `st_addon_scope_gurza_up_descr`<br />
-135. `st_addon_scope_lazup_pl15`<br />
-136. `st_addon_scope_lazup_pl15_descr`<br />
-137. `st_addon_scope_pl15_scolaz`<br />
-138. `st_addon_scope_pl15_scolaz_descr`<br />
-139. `st_addon_sil_lapu7`<br />
-140. `st_addon_sil_lapu7_descr`<br />
-141. `st_addon_sil_pl15`<br />
-142. `st_addon_sil_pl15_descr`<br />
-143. `st_addon_scope_shakal`<br />
-144. `st_addon_scope_shakal_descr`<br />
-145. `st_addon_sil_spec_isg`<br />
-146. `st_addon_sil_spec_isg_descr`<br />
-147. `st_addon_scope_u2p2g0r`<br />
-148. `st_addon_scope_u2p2g0r_descr`<br />
-149. `st_addon_sil_apb`<br />
-150. `st_addon_sil_apb_descr`<br />
-151. `st_addon_scope_apsabigo`<br />
-152. `st_addon_scope_apsabigo_descr`<br />
-153. `st_addon_scope_kp_sr2`<br />
-154. `st_addon_scope_kp_sr2_descr`<br />
-155. `st_addon_sil_veresk`<br />
-156. `st_addon_sil_veresk_descr`<br />
-157. `st_addon_scope_sr2_upkit`<br />
-158. `st_addon_scope_sr2_upkit_descr`<br />
-159. `st_grenade_launcher_monolit`<br />
-160. `st_grenade_launcher_monolit_descr`<br />
-161. `st_addon_sil_auga`<br />
-162. `st_addon_sil_auga_descr`<br />
-163. `st_addon_scope_5c_tik`<br />
-164. `st_addon_scope_5c_tik_descr`<br />
-165. `st_addon_sil_m42k`<br />
-166. `st_addon_sil_m42k_descr`<br />
-167. `st_addon_scope_susatov`<br />
-168. `st_addon_scope_susatov_descr`<br />
-169. `st_addon_sil_surfire`<br />
-170. `st_addon_sil_surfire_descr`<br />
-171. `st_grenade_launcher_scar`<br />
-172. `st_grenade_launcher_scar_descr`<br />
-173. `st_grenade_launcher_l85`<br />
-174. `st_grenade_launcher_l85_descr`<br />
-175. `st_addon_sil_kac4`<br />
-176. `st_addon_sil_kac4_descr`<br />
+1. `st_addon_scope_psicho_rmr`<br />
+2. `st_addon_scope_psicho_rmr_descr`<br />
 
 </details>
 
@@ -5633,31 +5405,6 @@
 	 <summary> <code>beef_nvg_mcm.xml</code> (1) </summary>
 
 1. `ui_mcm_beef_nvg_shader_scope_compat_desc`<br />
-
-</details>
-
-<details>
-	 <summary> <code>ssfx_ui_strings_mcm.xml</code> (19) </summary>
-
-1. `ui_mcm_menu_ssfx_module`<br />
-2. `ui_mcm_ssfx_module_general`<br />
-3. `ui_mcm_ssfx_module_wpn_dof`<br />
-4. `ui_mcm_ssfx_module_general_title`<br />
-5. `ui_mcm_ssfx_module_general_shaderscope_patch_mcm`<br />
-6. `ui_mcm_ssfx_module_wpn_dof_title`<br />
-7. `ui_mcm_ssfx_module_wpn_dof_aim_fadestart_mcm`<br />
-8. `ui_mcm_ssfx_module_wpn_dof_aim_fadelen_mcm`<br />
-9. `ui_mcm_ssfx_module_wpn_dof_aim_blur_mcm`<br />
-10. `ui_mcm_ssfx_module_wpn_dof_aim_edgeblur_mcm`<br />
-11. `ui_mcm_ssfx_module_wpn_dof_fadestart_mcm`<br />
-12. `ui_mcm_ssfx_module_wpn_dof_fadelen_mcm`<br />
-13. `ui_mcm_ssfx_module_wpn_dof_blur_mcm`<br />
-14. `ui_mcm_ssfx_module_wpn_dof_edgeblur_mcm`<br />
-15. `ui_mcm_ssfx_module_wpn_dof_reloading_mcm`<br />
-16. `ui_mcm_ssfx_module_wpn_dof_pda_mcm`<br />
-17. `ui_mcm_ssfx_module_wpn_dof_inventory_mcm`<br />
-18. `ui_mcm_ssfx_module_wpn_dof_fdda_mcm`<br />
-19. `ui_mcm_ssfx_module_wpn_dof_looting_mutant_mcm`<br />
 
 </details>
 
