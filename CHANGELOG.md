@@ -13,6 +13,29 @@ Recommendation: for ease of reading, use the following order:
 - Fixed
 - Security
 -->
+## [0.10.0] - 2025-05-26
+### Added
+- `st_items_magazines_bas.xml`: Add missed translation IDs
+- `st_items_magazines.xml`: Add
+- `st_fetch_count.xml`: Add
+- `st_outfit_drops.xml`: Add
+- `st_items_magazines_fix.xml`: Add
+- `pp2000mag.xml`: Add
+- `st_items_magazines_MrBs.xml`: Add
+- `st_items_magazines_k98_modded.xml`: Add
+- `st_items_magazines_pistol_coltext.xml`: Add
+- `st_items_mp7_mag_desc.xml`: Add
+- `st_items_magazines_shine.xml`: Add
+- `z_st_groza_mag.xml`: Add
+
+### Changed
+- `ui_furniture.xml`: Rename from z_st_hf_popups.xml
+- `ui_furniture.xml`: Add missed IDs
+- `st_items_devices_exo.xml`: Remove duplicated IDs
+- `ui_st_inventory.xml`: Change translation for st_news_dis_items to be the same as in other translation file
+- Unify some common ID's strings
+- `ui_st_jamming`: Rewrite снять запчасть with capital letter
+
 ## [0.9.0] - 2025-04-13
 ### Changed
 - `st_new_tasks_addon_tasks.xml`: Modified name `Пилот` to `Лоцман` in **Pilot's PDA** quest and litle fix of description by @Asskaro
