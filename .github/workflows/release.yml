@@ -1,0 +1,59 @@
+name: Create STALKER Mod
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build-mod:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Convert UTF-8 to Windows-1251
+        run: bun ./createRelease.ts
+
+      - name: Set up mod directory
+        run: |
+          mkdir -p "release/G.A.M.M.A Actualized Russian Translations/gamedata/scripts"
+
+      - name: Convert UTF-8 to Windows-1251
+        run:
+          cp -r "./scripts" "release/G.A.M.M.A Actualized Russian Translations/gamedata/"
+
+      - name: Generate meta.ini
+        run: |
+          TAG_NAME="${GITHUB_REF##refs/tags/}"
+          VERSION="${TAG_NAME#v}"
+          TIMESTAMP=$(TZ="Europe/Kiev" date +"%Y-%m-%dT%H:%M:%SZ")
+
+          echo -e "[General]\nmodid=0\nversion=$VERSION\nnewestVersion=\ncategory=\"-1,\"\ninstallationFile=\nignoredVersion=\nrepository=\ngameName=stalkeranomaly\ncomments=\nnotes=\nnexusDescription=\nurl=https://github.com/${GITHUB_REPOSITORY}/releases/tag/${TAG_NAME}\nhasCustomURL=true\nnexusFileStatus=1\nlastNexusQuery=\nlastNexusUpdate=\nnexusLastModified=$TIMESTAMP\nnexusCategory=0\nconverted=false\nvalidated=false\ncolor=@Variant(\\0\\0\\0\\x43\\0\\xff\\xff\\0\\0\\0\\0\\0\\0\\0\\0)\ntracked=0\n\n[installedFiles]\nsize=0" > "release/G.A.M.M.A Actualized Russian Translations/meta.ini"
+
+      - name: Package mod into zip
+        run: |
+          cd release
+          zip -r "../G.A.M.M.A Actualized Russian Translations.zip" "G.A.M.M.A Actualized Russian Translations"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: G.A.M.M.A Actualized Russian Translations
+          path: "release/G.A.M.M.A Actualized Russian Translations"
+
+      - name: Upload to GitHub Release
+        run: |
+          gh release upload $GITHUB_REF_NAME "G.A.M.M.A Actualized Russian Translations.zip"
+        env:
+          GITHUB_TOKEN: ${{ github.TOKEN }}
