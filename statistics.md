@@ -2,56 +2,27 @@
 ## Missed files
 
 1. `st_pda_category.xml` <br/>
-2. `st_items_magazines_shine.xml` <br/>
-3. `st_pda_category.xml` <br/>
-4. `st_item_groza.xml` <br/>
-5. `st_items_fn2000bukake.xml` <br/>
-6. `st_items_weapons_bas_eng.xml` <br/>
-7. `st_fetch_count.xml` <br/>
-8. `st_dit_mcm.xml` <br/>
-9. `pp2000mag.xml` <br/>
-10. `st_items_magazines_MrBs.xml` <br/>
-11. `st_items_magazines_k98_modded.xml` <br/>
-12. `st_items_magazines_pistol_coltext.xml` <br/>
-13. `st_items_mp7_mag_desc.xml` <br/>
-14. `st_overlylarge_mags.xml` <br/>
-15. `z_st_groza_mag.xml` <br/>
-16. `z_st_items_magazines_athi.xml` <br/>
-17. `st_pda_category.xml` <br/>
-18. `st_zzz_momopate_pba_tweaks.xml` <br/>
-19. `st_pda_category.xml` <br/>
-20. `st_items_weapons_bas_eng.xml` <br/>
-21. `ui_st_encyclopedia__notes.xml` <br/>
-22. `st_dialog_manager.xml` <br/>
-23. `st_dynamic_news.xml` <br/>
-24. `st_items_magazines_fix.xml` <br/>
-25. `ui_st_wepl_hit_effect.xml` <br/>
-26. `ui_mcm_remember_outfit_belt.xml` <br/>
-27. `st_items_weapons_addons_bas_eng.xml` <br/>
-28. `ui_st_smr_spawns.xml` <br/>
-29. `npe_gamma_tutorial_repair_gun.xml` <br/>
-30. `npe_ui_st_mcm.xml` <br/>
+2. `st_item_groza.xml` <br/>
+3. `st_items_fn2000bukake.xml` <br/>
+4. `st_items_weapons_bas_eng.xml` <br/>
+5. `st_dit_mcm.xml` <br/>
+6. `st_overlylarge_mags.xml` <br/>
+7. `z_st_items_magazines_athi.xml` <br/>
+8. `st_zzz_momopate_pba_tweaks.xml` <br/>
+9. `ui_st_encyclopedia__notes.xml` <br/>
+10. `st_dialog_manager.xml` <br/>
+11. `st_dynamic_news.xml` <br/>
+12. `ui_st_wepl_hit_effect.xml` <br/>
+13. `ui_mcm_remember_outfit_belt.xml` <br/>
+14. `st_items_weapons_addons_bas_eng.xml` <br/>
+15. `ui_st_smr_spawns.xml` <br/>
+16. `npe_gamma_tutorial_repair_gun.xml` <br/>
+17. `npe_ui_st_mcm.xml` <br/>
 
 ## Missed string IDs
 
 <details>
-	 <summary> <code>st_items_magazines_fix.xml</code> (10) <b>[missed file]</b></summary>
-
-1. `mag_kriss45`<br />
-2. `mag_kriss45_descr`<br />
-3. `mag_kriss9`<br />
-4. `mag_kriss9_descr`<br />
-5. `ext_mag_kriss_drum`<br />
-6. `ext_mag_kriss_drum_descr`<br />
-7. `ext_mag_kriss9_drum`<br />
-8. `ext_mag_kriss9_drum_descr`<br />
-9. `st_mag_mp7_5.7x28_ss190`<br />
-10. `st_mag_mp7_5.7x28_ss190_descr`<br />
-
-</details>
-
-<details>
-	 <summary> <code>st_item_groza.xml</code> (4) <b>[missed file]</b></summary>
+	<summary> <code>st_item_groza.xml</code> (4) <b>[missed file]</b></summary>
 
 1. `st_wpn_guns_groza`<br />
 2. `st_wpn_groza_guns_descr`<br />
@@ -61,7 +32,7 @@
 </details>
 
 <details>
-	 <summary> <code>st_items_fn2000bukake.xml</code> (3) <b>[missed file]</b></summary>
+	<summary> <code>st_items_fn2000bukake.xml</code> (3) <b>[missed file]</b></summary>
 
 1. `st_wpn_fn2000e_descr`<br />
 2. `st_wpn_fn2000e_nimble`<br />
@@ -70,14 +41,14 @@
 </details>
 
 <details>
-	 <summary> <code>st_items_weapons.xml</code> (1) </summary>
+	<summary> <code>st_items_weapons.xml</code> (1) </summary>
 
 1. `st_dynamo_hand_name_descr`<br />
 
 </details>
 
 <details>
-	 <summary> <code>st_items_weapons_bas_eng.xml</code> (6) <b>[missed file]</b></summary>
+	<summary> <code>st_items_weapons_bas_eng.xml</code> (6) <b>[missed file]</b></summary>
 
 1. `st_wpn_adar2_15`<br />
 2. `st_wpn_adar2_15_descr`<br />
@@ -89,15 +60,7 @@
 </details>
 
 <details>
-	 <summary> <code>st_fetch_count.xml</code> (2) <b>[missed file]</b></summary>
-
-1. `st_fetch_count_have`<br />
-2. `st_fetch_count_in_stashes`<br />
-
-</details>
-
-<details>
-	 <summary> <code>st_dit_mcm.xml</code> (16) <b>[missed file]</b></summary>
+	<summary> <code>st_dit_mcm.xml</code> (16) <b>[missed file]</b></summary>
 
 1. `ui_mcm_menu_dit`<br />
 2. `ui_mcm_dit_slide`<br />
@@ -119,63 +82,7 @@
 </details>
 
 <details>
-	 <summary> <code>pp2000mag.xml</code> (4) <b>[missed file]</b></summary>
-
-1. `st_mag_pp2000_9x19_ext`<br />
-2. `st_mag_pp2000_9x19_ext_descr`<br />
-3. `st_mag_pp2000_9x18_ext`<br />
-4. `st_mag_pp2000_9x18_ext_descr`<br />
-
-</details>
-
-<details>
-	 <summary> <code>st_items_magazines_MrBs.xml</code> (20) <b>[missed file]</b></summary>
-
-1. `st_mag_aug_5.56x45_short`<br />
-2. `st_mag_aug_5.56x45_short_descr`<br />
-3. `st_mag_aug_5.56x45_ext`<br />
-4. `st_mag_aug_5.56x45_ext_descr`<br />
-5. `st_mag_mp5_9x19_fmjext`<br />
-6. `st_mag_mp5_9x19_fmjext_descr`<br />
-7. `st_mag_mp5_9x19_fmjext50`<br />
-8. `st_mag_mp5_9x19_fmjext50_descr`<br />
-9. `st_mag_glock_9x19_fmjext`<br />
-10. `st_mag_glock_9x19_fmjext_descr`<br />
-11. `st_mag_glock_9x19_fmjext50`<br />
-12. `st_mag_glock_9x19_fmjext50_descr`<br />
-13. `st_mag_mp5_9x18_fmjext`<br />
-14. `st_mag_mp5_9x18_fmjext_descr`<br />
-15. `st_mag_mp5_9x18_fmjext50`<br />
-16. `st_mag_mp5_9x18_fmjext50_descr`<br />
-17. `st_mag_glock_9x18_fmjext`<br />
-18. `st_mag_glock_9x18_fmjext_descr`<br />
-19. `st_mag_glock_9x18_fmjext50`<br />
-20. `st_mag_glock_9x18_fmjext50_descr`<br />
-
-</details>
-
-<details>
-	 <summary> <code>st_items_magazines_k98_modded.xml</code> (4) <b>[missed file]</b></summary>
-
-1. `st_mag_k98_7.62x51`<br />
-2. `st_mag_k98_7.62x51_descr`<br />
-3. `st_mag_k98_7.62x39`<br />
-4. `st_mag_k98_7.62x39_descr`<br />
-
-</details>
-
-<details>
-	 <summary> <code>st_items_magazines_pistol_coltext.xml</code> (4) <b>[missed file]</b></summary>
-
-1. `ext_mag_colt1911_11.43x23_fmj`<br />
-2. `ext_mag_colt1911_11.43x23_fmj_descr`<br />
-3. `ext_mag_ppp_1911_357_fmj`<br />
-4. `ext_mag_ppp_1911_357_fmj_descr`<br />
-
-</details>
-
-<details>
-	 <summary> <code>st_overlylarge_mags.xml</code> (24) <b>[missed file]</b></summary>
+	<summary> <code>st_overlylarge_mags.xml</code> (24) <b>[missed file]</b></summary>
 
 1. `st_mag_overlylarge_95_545_drum`<br />
 2. `st_mag_overlylarge_95_545_drum_descr`<br />
@@ -205,14 +112,14 @@
 </details>
 
 <details>
-	 <summary> <code>st_items_weapons_colt1911_ppp.xml</code> (1) </summary>
+	<summary> <code>st_items_weapons_colt1911_ppp.xml</code> (1) </summary>
 
 1. `st_up_add_colt695_name`<br />
 
 </details>
 
 <details>
-	 <summary> <code>ui_st_encyclopedia__notes.xml</code> (100) <b>[missed file]</b></summary>
+	<summary> <code>ui_st_encyclopedia__notes.xml</code> (100) <b>[missed file]</b></summary>
 
 1. `encyclopedia__notes`<br />
 2. `encyclopedia__notes__state`<br />
@@ -318,7 +225,7 @@
 </details>
 
 <details>
-	 <summary> <code>st_dialog_manager.xml</code> (1196) <b>[missed file]</b></summary>
+	<summary> <code>st_dialog_manager.xml</code> (1196) <b>[missed file]</b></summary>
 
 1. `st_drx_sl_meet_honcho`<br />
 2. `st_drx_sl_accept_task`<br />
@@ -1520,7 +1427,7 @@
 </details>
 
 <details>
-	 <summary> <code>st_dynamic_news.xml</code> (3839) <b>[missed file]</b></summary>
+	<summary> <code>st_dynamic_news.xml</code> (3839) <b>[missed file]</b></summary>
 
 1. `st_dyn_news_lurker_1`<br />
 2. `st_dyn_news_lurker_2`<br />
@@ -5365,7 +5272,7 @@
 </details>
 
 <details>
-	 <summary> <code>ui_st_wepl_hit_effect.xml</code> (5) <b>[missed file]</b></summary>
+	<summary> <code>ui_st_wepl_hit_effect.xml</code> (5) <b>[missed file]</b></summary>
 
 1. `ui_mcm_wepl_hit_effect_title`<br />
 2. `ui_mcm_menu_wepl_hit_effect`<br />
@@ -5376,14 +5283,14 @@
 </details>
 
 <details>
-	 <summary> <code>ui_st_smr_loot.xml</code> (1) </summary>
+	<summary> <code>ui_st_smr_loot.xml</code> (1) </summary>
 
 1. `st_smr_loot_found_lootbox`<br />
 
 </details>
 
 <details>
-	 <summary> <code>ui_mcm_remember_outfit_belt.xml</code> (5) <b>[missed file]</b></summary>
+	<summary> <code>ui_mcm_remember_outfit_belt.xml</code> (5) <b>[missed file]</b></summary>
 
 1. `ui_mcm_menu_remember_outfit_belt`<br />
 2. `ui_mcm_remember_outfit_belt_title`<br />
@@ -5394,7 +5301,7 @@
 </details>
 
 <details>
-	 <summary> <code>st_items_weapons_addons_bas_eng.xml</code> (2) <b>[missed file]</b></summary>
+	<summary> <code>st_items_weapons_addons_bas_eng.xml</code> (2) <b>[missed file]</b></summary>
 
 1. `st_addon_scope_psicho_rmr`<br />
 2. `st_addon_scope_psicho_rmr_descr`<br />
@@ -5402,14 +5309,39 @@
 </details>
 
 <details>
-	 <summary> <code>beef_nvg_mcm.xml</code> (1) </summary>
+	<summary> <code>beef_nvg_mcm.xml</code> (1) </summary>
 
 1. `ui_mcm_beef_nvg_shader_scope_compat_desc`<br />
 
 </details>
 
 <details>
-	 <summary> <code>ui_st_smr_spawns.xml</code> (22) <b>[missed file]</b></summary>
+	<summary> <code>ssfx_ui_strings_mcm.xml</code> (19) </summary>
+
+1. `ui_mcm_menu_ssfx_module`<br />
+2. `ui_mcm_ssfx_module_general`<br />
+3. `ui_mcm_ssfx_module_wpn_dof`<br />
+4. `ui_mcm_ssfx_module_general_title`<br />
+5. `ui_mcm_ssfx_module_general_shaderscope_patch_mcm`<br />
+6. `ui_mcm_ssfx_module_wpn_dof_title`<br />
+7. `ui_mcm_ssfx_module_wpn_dof_aim_fadestart_mcm`<br />
+8. `ui_mcm_ssfx_module_wpn_dof_aim_fadelen_mcm`<br />
+9. `ui_mcm_ssfx_module_wpn_dof_aim_blur_mcm`<br />
+10. `ui_mcm_ssfx_module_wpn_dof_aim_edgeblur_mcm`<br />
+11. `ui_mcm_ssfx_module_wpn_dof_fadestart_mcm`<br />
+12. `ui_mcm_ssfx_module_wpn_dof_fadelen_mcm`<br />
+13. `ui_mcm_ssfx_module_wpn_dof_blur_mcm`<br />
+14. `ui_mcm_ssfx_module_wpn_dof_edgeblur_mcm`<br />
+15. `ui_mcm_ssfx_module_wpn_dof_reloading_mcm`<br />
+16. `ui_mcm_ssfx_module_wpn_dof_pda_mcm`<br />
+17. `ui_mcm_ssfx_module_wpn_dof_inventory_mcm`<br />
+18. `ui_mcm_ssfx_module_wpn_dof_fdda_mcm`<br />
+19. `ui_mcm_ssfx_module_wpn_dof_looting_mutant_mcm`<br />
+
+</details>
+
+<details>
+	<summary> <code>ui_st_smr_spawns.xml</code> (22) <b>[missed file]</b></summary>
 
 1. `ui_mcm_menu_smr_spawns`<br />
 2. `ui_mcm_SMR_smr_spawns_preset_desc`<br />
@@ -5437,7 +5369,7 @@
 </details>
 
 <details>
-	 <summary> <code>npe_gamma_tutorial_repair_gun.xml</code> (14) <b>[missed file]</b></summary>
+	<summary> <code>npe_gamma_tutorial_repair_gun.xml</code> (14) <b>[missed file]</b></summary>
 
 1. `ui_mcm_npe_module_gamma_tutorial_repair`<br />
 2. `ui_mcm_npe_module_gamma_tutorial_repair_title`<br />
@@ -5457,7 +5389,7 @@
 </details>
 
 <details>
-	 <summary> <code>npe_ui_st_mcm.xml</code> (25) <b>[missed file]</b></summary>
+	<summary> <code>npe_ui_st_mcm.xml</code> (25) <b>[missed file]</b></summary>
 
 1. `ui_mcm_menu_npe`<br />
 2. `ui_mcm_npe_general`<br />
@@ -5488,7 +5420,7 @@
 </details>
 
 <details>
-	 <summary> <code>ui_mm_modded_exes.xml</code> (6) </summary>
+	<summary> <code>ui_mm_modded_exes.xml</code> (6) </summary>
 
 1. `ui_mm_2d_scopes_modded_exes`<br />
 2. `ui_mm_menu_hdr10`<br />
