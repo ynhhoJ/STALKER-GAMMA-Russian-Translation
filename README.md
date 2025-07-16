@@ -14,11 +14,7 @@
 </p>
 
 ## Instalation
-1. Download `.zip` file from [release page](https://github.com/0u73r-h34v3n/STALKER-GAMMA-Russian-Translation/releases).
-2. Go to `G.A.M.M.A` folder of your game
-3. **Create a backup of `/mods` folder**
-4. Open `/mods` folder
-5. Move all folders extracted from `.zip` into `/mods` folder
+Use Mod Organizer to install mod.
 
 ## Credits
 - **Dr.Pr1nkos** for initial translations of GMTOP files
